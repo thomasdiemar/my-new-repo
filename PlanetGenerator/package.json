@@ -1,0 +1,13 @@
+{
+  "name": "com.yourcompany.planetgenerator",
+  "version": "0.1.0",
+  "displayName": "Planet Generator",
+  "description": "A procedural planet generation system for Unity",
+  "unity": "2021.3",
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com"
+  },
+  "keywords": ["planet", "generation", "procedural", "terrain"],
+  "dependencies": {}
+}
